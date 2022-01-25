@@ -1,6 +1,4 @@
-## Rules
 
-Do NOT commit directly to the master branch unless you are on campus or are the season's Software Lead.
 
 ## NOTICE
 
